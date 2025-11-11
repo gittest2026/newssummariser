@@ -1,0 +1,27 @@
+{
+  "name": "testsum",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.29.0",
+    "@huggingface/inference": "^4.13.2",
+    "@mozilla/readability": "^0.6.0",
+    "axios": "^1.13.2",
+    "cheerio": "^1.1.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsdom": "^27.1.0",
+    "natural": "^8.1.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^6.8.1",
+    "stopword": "^3.1.5",
+    "textrank": "^1.0.5",
+    "textrank-node": "^0.1.9"
+  }
+}
